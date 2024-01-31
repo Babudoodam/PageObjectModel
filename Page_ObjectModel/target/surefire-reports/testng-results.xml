@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Customer Adding Successful]]>
+    </line>
+    <line>
+      <![CDATA[Customer Adding Successful]]>
+    </line>
+    <line>
+      <![CDATA[Customer Adding Successful]]>
+    </line>
+    <line>
+      <![CDATA[Customer Adding Successful]]>
+    </line>
+    <line>
+      <![CDATA[Customer Adding Successful]]>
+    </line>
+    <line>
+      <![CDATA[Customer Adding Successful]]>
+    </line>
+    <line>
+      <![CDATA[Customer Adding Successful]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-30T15:10:10 IST" name="Surefire suite" finished-at="2024-01-30T15:10:52 IST" duration-ms="42293">
+    <groups>
+    </groups>
+    <test started-at="2024-01-30T15:10:10 IST" name="Surefire test" finished-at="2024-01-30T15:10:52 IST" duration-ms="42293">
+      <class name="driverFactory.AppTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:driverFactory.AppTest@4d5b6aac]" started-at="2024-01-30T15:10:10 IST" name="setUp" finished-at="2024-01-30T15:10:17 IST" duration-ms="7657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="startTest()[pri:0, instance:driverFactory.AppTest@4d5b6aac]" started-at="2024-01-30T15:10:17 IST" name="startTest" finished-at="2024-01-30T15:10:51 IST" duration-ms="33406" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Customer Adding Successful]]>
+            </line>
+            <line>
+              <![CDATA[Customer Adding Successful]]>
+            </line>
+            <line>
+              <![CDATA[Customer Adding Successful]]>
+            </line>
+            <line>
+              <![CDATA[Customer Adding Successful]]>
+            </line>
+            <line>
+              <![CDATA[Customer Adding Successful]]>
+            </line>
+            <line>
+              <![CDATA[Customer Adding Successful]]>
+            </line>
+            <line>
+              <![CDATA[Customer Adding Successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:driverFactory.AppTest@4d5b6aac]" started-at="2024-01-30T15:10:51 IST" name="tearDown" finished-at="2024-01-30T15:10:52 IST" duration-ms="1095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- driverFactory.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
